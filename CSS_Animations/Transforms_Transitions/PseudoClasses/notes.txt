@@ -1,0 +1,31 @@
+Commonly Used Triggers:
+
+- :hover
+- :focus
+- :active
+
+
+
+HOVER:
+
+- Ex:
+div:hover {
+    background: purple;
+}
+
+- when this div is hovered over, the background will turn purple 
+
+
+
+FOCUS:
+
+- changes the style of the element when it is in focus, like an input box 
+that is selected. Or when it is tabbed over to like tabbing to the submit 
+button of a form 
+
+
+ACTIVE:
+
+- triggers when an element is being acitvated by a user, when it is 
+clicked on or tabbed to. While the user is clicking on it, you have 
+to click and hold the click to really see it 
